@@ -1,2 +1,3 @@
 # landing_page
-amazon landing page test.
+Amazon landing page test.
+The final code is yet to be uploaded.
